@@ -1,0 +1,2 @@
+module Instructo::CoursesHelper
+end
